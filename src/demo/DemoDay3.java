@@ -11,6 +11,8 @@ public class DemoDay3 {
 		
 		System.out.println("********Tiffany Vega********");
 		
+		System.out.println("********Sterling Madrid********");
+		
 		
 		
 	}
