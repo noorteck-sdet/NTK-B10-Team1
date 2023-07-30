@@ -2,5 +2,16 @@ package demo;
 
 public class DemoDay3 {
 
-	//importance of following stash process && communicating... :)
+	public static void main(String[] args) {
+		
+		System.out.println("Demo..");
+		
+		System.out.println("********Eltaf Sameem********");
+		
+		System.out.println("********Swen Gonzalez********");
+		
+		System.out.println("********Tiffany Vega********");
+		
+		System.out.println("********Sterling Madrid********");
+	}
 }
