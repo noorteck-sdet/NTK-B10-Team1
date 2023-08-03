@@ -10,7 +10,7 @@ public class DemoDay3 {
 		
 
 
-		System.out.println("Sterling conflict");
+		System.out.println("Aisha conflict");
 
 	
 
