@@ -18,10 +18,19 @@ public class DemoDay3 {
 		
 		System.out.println("********Sterling Madrid********");
 		
+		System.out.println("Generate Conflict 1....");
+		System.out.println("Generate Conflict 2....");
+		System.out.println("Generate Conflict 3....");
+		
 		System.out.println("Branches Eltaf");
 		
 		System.out.println("Aisha");
 		
 		System.out.println(" Brances Sterling");
+	}
+	
+	
+	public void add() {
+		System.out.println(1 + 2);
 	}
 }
