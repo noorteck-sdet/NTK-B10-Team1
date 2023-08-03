@@ -40,7 +40,7 @@ public class DemoDay3 {
 	}
 	
 	public void add() {
-		System.out.println("Generate Conflict 5....");
+		System.out.println("changed....");
 		System.out.println("Generate Conflict 6....");
 		System.out.println("Generate Conflict 7....");
 		System.out.println(1 + 2);
