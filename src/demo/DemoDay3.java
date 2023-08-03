@@ -18,10 +18,18 @@ public class DemoDay3 {
 		
 		System.out.println("********Sterling Madrid********");
 		
+		System.out.println("new line");
+		System.out.println("new line");
+		System.out.println("new line");
+		
 		System.out.println("Branches Eltaf");
 		
 		System.out.println("Aisha");
 		
 		System.out.println(" Brances Sterling");
+		
+		System.out.println("new line");
+		System.out.println("new line");
+		System.out.println("new line");
 	}
 }
