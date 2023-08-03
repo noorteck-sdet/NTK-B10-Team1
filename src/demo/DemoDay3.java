@@ -21,6 +21,7 @@ public class DemoDay3 {
 		System.out.println("Generate Conflict 1....");
 		System.out.println("Generate Conflict 2....");
 		System.out.println("Generate Conflict 3....");
+		System.out.println("Generate Conflict 3....");
 		
 		System.out.println("Branches Eltaf");
 		
