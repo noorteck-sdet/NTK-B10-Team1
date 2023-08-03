@@ -22,12 +22,17 @@ public class DemoDay3 {
 		System.out.println("Generate Conflict 2....");
 		System.out.println("Generate Conflict 3....");
 		System.out.println("Generate Conflict 3....");
+
 		
 		System.out.println("Branches Eltaf");
 		
 		System.out.println("Aisha");
 		
 		System.out.println(" Brances Sterling");
+		
+		System.out.println("new line");
+		System.out.println("new line");
+		System.out.println("new line");
 	}
 	
 	
