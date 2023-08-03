@@ -44,5 +44,9 @@ public class DemoDay3 {
 		System.out.println("Generate Conflict 6....");
 		System.out.println("Generate Conflict 7....");
 		System.out.println(1 + 2);
+		
+		System.out.println("new line2");
+		System.out.println("new line2");
+		System.out.println("new line2");
 	}
 }
