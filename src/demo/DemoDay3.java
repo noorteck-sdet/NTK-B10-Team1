@@ -8,7 +8,7 @@ public class DemoDay3 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Demo12..");
+		System.out.println("changed 2");
 		
 		
 		System.out.println("********Eltaf Sameem********");
