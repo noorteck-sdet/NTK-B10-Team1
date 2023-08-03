@@ -38,5 +38,9 @@ public class DemoDay3 {
 	
 	public void add() {
 		System.out.println(1 + 2);
+		
+		System.out.println("new line2");
+		System.out.println("new line2");
+		System.out.println("new line2");
 	}
 }
