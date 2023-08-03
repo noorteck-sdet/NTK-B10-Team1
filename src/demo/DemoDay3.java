@@ -35,8 +35,14 @@ public class DemoDay3 {
 		System.out.println("new line");
 	}
 	
+	public static void test(String  name) {	
+		System.out.println("Name: "+ name);
+	}
 	
 	public void add() {
+		System.out.println("Generate Conflict 5....");
+		System.out.println("Generate Conflict 6....");
+		System.out.println("Generate Conflict 7....");
 		System.out.println(1 + 2);
 	}
 }
