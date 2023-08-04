@@ -9,12 +9,7 @@ public class DemoDay3 {
 	public static void main(String[] args) {
 		
 
-
-
-		System.out.println("Aishaa conflict");
-
-
-	
+		System.out.println("Demo..1");
 
 		
 		System.out.println("********Eltaf Sameem********");
