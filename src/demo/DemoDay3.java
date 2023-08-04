@@ -4,7 +4,6 @@ public class DemoDay3 {
 	
 	int a = 0;
 	int c = 222;
-	
 	int b= 17;
 
 	public static void main(String[] args) {
