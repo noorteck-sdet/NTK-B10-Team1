@@ -7,7 +7,7 @@ public class DemoDay3 {
 	int b= 17;
 
 	public static void main(String[] args) {
-		
+		System.out.println("TEST");
 
 		System.out.println("Demo..1");
 
